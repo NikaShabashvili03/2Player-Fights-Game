@@ -89,7 +89,7 @@ public class Main extends JFrame{
         pigmanImage = ImageIO.read(Main.class.getResourceAsStream(Pigman[1]));
         game.setSize(1000,500);
         game.setResizable(false);
-        game.setTitle("g");
+        game.setTitle("2Player Fights");
         game.setDefaultCloseOperation(EXIT_ON_CLOSE);
         game.setLocation(200,150);
         GameField gameF = new GameField();
