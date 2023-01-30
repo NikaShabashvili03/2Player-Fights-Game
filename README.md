@@ -1,4 +1,5 @@
 # 2Player-Fights-Game
 Simple 2 Player Fights Game Using Java
 
-<img width="1112" alt="Untitled" src="https://user-images.githubusercontent.com/104011629/215581937-26b25cf2-5f5c-4358-b671-469ff8421cb4.png">
+
+<img width="1112" alt="Untitled" src="https://user-images.githubusercontent.com/104011629/215582437-4a8dafcc-2fc1-4d09-8964-73a4ee8d9845.png">
